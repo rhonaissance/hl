@@ -1,0 +1,9 @@
+data/
+results/
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+.env
+*.lz4
+*.npz
